@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\07.PrintDate\bin\Debug\07.PrintDate.exe.config
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\07.PrintDate\bin\Debug\07.PrintDate.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\07.PrintDate\bin\Debug\07.PrintDate.pdb
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\07.PrintDate\obj\Debug\07.PrintDate.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\07.PrintDate\obj\Debug\07.PrintDate.pdb

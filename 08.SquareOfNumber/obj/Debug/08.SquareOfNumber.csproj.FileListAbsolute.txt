@@ -1,0 +1,5 @@
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\08.SquareOfNumber\bin\Debug\08.SquareOfNumber.exe.config
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\08.SquareOfNumber\bin\Debug\08.SquareOfNumber.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\08.SquareOfNumber\bin\Debug\08.SquareOfNumber.pdb
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\08.SquareOfNumber\obj\Debug\08.SquareOfNumber.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\08.SquareOfNumber\obj\Debug\08.SquareOfNumber.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\12.AgeAfter10years\bin\Debug\12.AgeAfter10years.exe.config
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\12.AgeAfter10years\bin\Debug\12.AgeAfter10years.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\12.AgeAfter10years\bin\Debug\12.AgeAfter10years.pdb
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\12.AgeAfter10years\obj\Debug\12.AgeAfter10years.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\12.AgeAfter10years\obj\Debug\12.AgeAfter10years.pdb
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\12.AgeAfter10years\obj\Debug\12.AgeAfter10years.csprojResolveAssemblyReference.cache

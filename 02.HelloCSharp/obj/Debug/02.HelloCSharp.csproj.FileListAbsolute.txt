@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\02.HelloCSharp\bin\Debug\02.HelloCSharp.exe.config
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\02.HelloCSharp\bin\Debug\02.HelloCSharp.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\02.HelloCSharp\bin\Debug\02.HelloCSharp.pdb
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\02.HelloCSharp\obj\Debug\02.HelloCSharp.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\02.HelloCSharp\obj\Debug\02.HelloCSharp.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\02.HelloCSharp\obj\Debug\02.HelloCSharp.pdb

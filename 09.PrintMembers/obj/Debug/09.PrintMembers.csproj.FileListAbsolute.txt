@@ -1,0 +1,6 @@
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\09.PrintMembers\bin\Debug\09.PrintMembers.exe.config
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\09.PrintMembers\bin\Debug\09.PrintMembers.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\09.PrintMembers\bin\Debug\09.PrintMembers.pdb
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\09.PrintMembers\obj\Debug\09.PrintMembers.exe
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\09.PrintMembers\obj\Debug\09.PrintMembers.pdb
+D:\Telerik\C# Part I\01.Въведение в програмирането\intr to prog\IntroProgramming-Homework\09.PrintMembers\obj\Debug\09.PrintMembers.csprojResolveAssemblyReference.cache
